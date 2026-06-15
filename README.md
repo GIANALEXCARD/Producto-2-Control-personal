@@ -2,6 +2,10 @@
 
 Aplicacion academica personal para control de gastos personales de Giancarlos Cardenas Galarza.
 
+## Repositorio GitHub
+
+Repositorio de entrega: `https://github.com/GIANALEXCARD/Producto-2-Control-personal`
+
 ## Objetivo
 
 Registrar una base limpia para documentar y desarrollar un sistema simple de control de gastos personales.
