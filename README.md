@@ -1,4 +1,4 @@
-# Expense Control
+# Producto 2 - Control Personal
 
 Aplicacion academica personal para control de gastos personales de Giancarlos Cardenas Galarza.
 
@@ -14,6 +14,7 @@ Registrar una base limpia para documentar y desarrollar un sistema simple de con
 
 - Python 3
 - Biblioteca estandar de Python
+- SQLite
 - Shell POSIX para scripts
 - Git/GitHub para flujo de trabajo
 
@@ -44,11 +45,13 @@ La aplicacion web abre un servidor local en `http://127.0.0.1:8000` y guarda los
 
 ## Demostracion GitFlow
 
-1. Crear una rama desde `main`: `feature/registro-gastos`
+1. Crear una rama desde `develop`: `feature/registro-gastos`
 2. Hacer cambios pequenos y commits atomicos
-3. Abrir Pull Request hacia `main`
+3. Abrir Pull Request hacia `develop`
 4. Resolver conflictos con cuidado si la rama base cambio
 5. Fusionar solo cuando la verificacion pase
+6. Preparar `release/v1.0.0` hacia `main`
+7. Aplicar hotfixes desde `hotfix/...` cuando corresponda
 
 ## Documentacion academica final
 
