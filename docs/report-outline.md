@@ -6,7 +6,7 @@
 - Estudiante: **Giancarlos Cardenas Galarza**
 - Curso: Construccion de Software
 - Tipo de entrega: individual
-- Enlace del repositorio GitHub: `https://github.com/GIANALEXCARD/expense-control`
+- Enlace del repositorio GitHub: `https://github.com/GIANALEXCARD/Producto-2-Control-personal`
 
 ## 2. Objetivo del proyecto
 

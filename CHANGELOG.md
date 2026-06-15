@@ -12,7 +12,7 @@ El formato recomendado para la entrega es simple: version, fecha, tipo de cambio
 - se incorpora este `CHANGELOG.md` como apoyo para la trazabilidad de versiones
 - se actualiza `README.md` con referencia minima a la documentacion final de entrega
 
-## [v1.0.0] - pendiente de publicar
+## [v1.0.0] - 2026-06-14
 
 ### Base funcional esperada
 
@@ -42,6 +42,6 @@ El formato recomendado para la entrega es simple: version, fecha, tipo de cambio
 
 ## Notas de uso academico
 
-- no reemplazar `pendiente de publicar` por una fecha hasta que la version exista de verdad
+- la version `v1.0.0` queda preparada para publicarse cuando el repositorio se suba a GitHub
 - no inventar tags, commits o enlaces
 - actualizar este archivo cada vez que una feature, release o hotfix quede registrada en GitHub

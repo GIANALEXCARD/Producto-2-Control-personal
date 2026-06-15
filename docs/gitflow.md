@@ -4,7 +4,7 @@
 
 Este proyecto se presenta como trabajo individual de **Giancarlos Cardenas Galarza**. El flujo debe demostrar uso ordenado de Git y GitHub, aunque la aplicacion sea personal y el repositorio tenga un solo autor.
 
-Repositorio esperado en GitHub: `https://github.com/GIANALEXCARD/expense-control`
+Repositorio esperado en GitHub: `https://github.com/GIANALEXCARD/Producto-2-Control-personal`
 
 ## Ramas recomendadas
 
